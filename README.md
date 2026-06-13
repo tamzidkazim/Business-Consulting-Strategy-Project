@@ -122,13 +122,10 @@ Bachelor of Commerce (Health Management)
 (Add screenshots from the report here)
 
 ### SWOT Analysis
-![SWOT Analysis](swot-analysis.png)
+![SWOT Analysis](SWOT%20Analysis.png)
 
 ### Competitor Analysis
-![Competitor Analysis](competitor-analysis.png)
-
-### Marketing Strategy
-![Marketing Strategy](marketing-strategy.png)
+![Competitor Analysis](Competitor%20Analysis.png)
 
 ### Action Plan
-![Action Plan](action-plan.png)
+![Action Plan](Action%20Plan.png)
